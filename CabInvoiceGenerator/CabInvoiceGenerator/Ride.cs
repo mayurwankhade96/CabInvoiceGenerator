@@ -7,7 +7,7 @@ namespace CabInvoiceGenerator
     /// <summary>
     /// Ride class to set data for particular ride
     /// </summary>
-    class Ride
+    public class Ride
     {
         public double distance;
         public int time;
